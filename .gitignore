@@ -1,0 +1,28 @@
+# Archivos de compilación Java
+*.class
+
+# Archivos temporales
+*.swp
+*.swo
+*.bak
+*~
+
+# Directorios generados por Maven
+/target/
+
+# Archivos de NetBeans
+nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/build/
+*.iml
+.nb-gradle/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs y backups
+*.log
+*.tmp
